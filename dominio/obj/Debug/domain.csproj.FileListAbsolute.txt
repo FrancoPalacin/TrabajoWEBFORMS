@@ -1,0 +1,15 @@
+C:\Users\franm\PROGRAMACION 3\trabajoWINFORMS\TP_WinForm\dominio\bin\Debug\domain.dll
+C:\Users\franm\PROGRAMACION 3\trabajoWINFORMS\TP_WinForm\dominio\bin\Debug\domain.pdb
+C:\Users\franm\PROGRAMACION 3\trabajoWINFORMS\TP_WinForm\dominio\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\franm\PROGRAMACION 3\trabajoWINFORMS\TP_WinForm\dominio\obj\Debug\domain.csproj.AssemblyReference.cache
+C:\Users\franm\PROGRAMACION 3\trabajoWINFORMS\TP_WinForm\dominio\obj\Debug\domain.csproj.CoreCompileInputs.cache
+C:\Users\franm\PROGRAMACION 3\trabajoWINFORMS\TP_WinForm\dominio\obj\Debug\domain.csproj.CopyComplete
+C:\Users\franm\PROGRAMACION 3\trabajoWINFORMS\TP_WinForm\dominio\obj\Debug\domain.dll
+C:\Users\franm\PROGRAMACION 3\trabajoWINFORMS\TP_WinForm\dominio\obj\Debug\domain.pdb
+D:\TRABAJO WEBFORMS\TPWebFORMS\dominio\bin\Debug\domain.dll
+D:\TRABAJO WEBFORMS\TPWebFORMS\dominio\bin\Debug\domain.pdb
+D:\TRABAJO WEBFORMS\TPWebFORMS\dominio\obj\Debug\domain.csproj.AssemblyReference.cache
+D:\TRABAJO WEBFORMS\TPWebFORMS\dominio\obj\Debug\domain.csproj.CoreCompileInputs.cache
+D:\TRABAJO WEBFORMS\TPWebFORMS\dominio\obj\Debug\domain.csproj.CopyComplete
+D:\TRABAJO WEBFORMS\TPWebFORMS\dominio\obj\Debug\domain.dll
+D:\TRABAJO WEBFORMS\TPWebFORMS\dominio\obj\Debug\domain.pdb
